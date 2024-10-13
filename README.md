@@ -60,8 +60,13 @@ Views: Interface de controle que permite ao usuário interagir e visualizar as m
 ## Entrega
 
 ### Projeto: 
-
+- [Projeto Unity](https://github.com/Marcelleap/CG-Voxel/tree/main/Terreno%20Procedural)
+  
 ### Imagem: 
+<img src="https://github.com/Marcelleap/CG-Voxel/blob/main/Capturas/Captura%20I.png">
+<img src="https://github.com/Marcelleap/CG-Voxel/blob/main/Capturas/Captura%20II.png">
 
 ### Videos: 
+- [Código e Lógica](https://youtu.be/PGA0eP-mgzA)
+- [Demostração](https://youtu.be/LiQNZuwDylc)
 
